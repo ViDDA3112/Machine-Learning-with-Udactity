@@ -7,3 +7,5 @@ Vor einem Monat habe ich das finale Projekt des ersten Kapitels "Supervised Lear
 
 Aktuell (09.05.) stehe ich kurz vor Beginn des finalen Projekts des zweiten Kapitels, diesmal zu Neuronalen Netzwerken mit TensorFlow.
 In beiden Kapiteln wird zuerst die Mathematik und schrittweise die verschiedenen Methoden gelehrt, die finalen Projekte fassen anschließend nochmal alles zusammen.
+
+Das dritte Projekt handelt von "Unsupervised Learning".
